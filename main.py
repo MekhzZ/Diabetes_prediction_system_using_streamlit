@@ -84,9 +84,11 @@ st.title("📈 Diabetes Prediction System")
 
 st.write("- MekhzZ")
 
+st.write()
+
 df = pd.read_csv("diabetes.csv")
 
-st.write("you can take a random data from below which to predict")
+st.write("you can take a random data from below to predict")
 
 st.write(df.sample())
 
