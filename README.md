@@ -58,3 +58,9 @@ You can find the code for the custom SVM classifier in my GitHub repository belo
 ## Dataset
 
 The diabetes dataset used for training the model can be found on [Kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset).
+
+## Screenshots
+Here is a screenshot of the Diabetes Prediction System in action:
+
+![App Screenshot](./assets/Screenshot 2024-10-13 130943.png)
+
