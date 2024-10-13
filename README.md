@@ -1,59 +1,55 @@
 Diabetes Prediction System
-This is a web-based application that predicts the likelihood of diabetes using a custom-built Support Vector Machine (SVM) classifier. The app is built with Python, Streamlit, and includes a machine learning model trained on the Pima Indians Diabetes Database.
+This project is a Diabetes Prediction System built using Streamlit for the web interface and a custom-made SVM (Support Vector Machine) classifier for prediction. The system allows users to input medical details and get a prediction about whether or not they may have diabetes, based on the provided data.
 
 Features
-Custom SVM Classifier: A custom SVM classifier built from scratch in Python.
-Real-time Prediction: Users can input health metrics like glucose levels, BMI, etc., and get a prediction on whether they are likely to have diabetes.
-Streamlit Deployment: Deployed using Streamlit for an easy-to-use interface.
-Demo
-Check out the live app:
-Diabetes Prediction System
+Custom SVM Classifier: A Support Vector Machine model created from scratch using Python.
+Interactive Web Application: Deployed using Streamlit for easy and interactive user input.
+Real-time Prediction: Provides instant results based on the input medical data.
+Live Demo
+You can access the live demo of the app here:
 
-Dataset
-The model is trained using the Pima Indians Diabetes dataset, which contains medical diagnostic data for predicting diabetes. Features include:
+🔗 Live Streamlit App
 
-Pregnancies
-Glucose Level
-Blood Pressure
-Skin Thickness
-Insulin
-BMI
-Age
-How it Works
-Input Fields: Users can provide their health information such as glucose levels, BMI, etc.
-Prediction: The app will use the custom-built SVM model to predict whether the user has diabetes or not.
-Custom SVM Classifier
-This project features an SVM classifier implemented from scratch in Python. The model uses linear classification to predict the likelihood of diabetes.
-
-You can find the complete implementation of the SVM classifier in my GitHub repository:
-Custom SVM Classifier
-
-How to Run Locally
-Clone the repository:
+How to Run the Project Locally
+Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/diabetes-prediction-system.git
-cd diabetes-prediction-system
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 Install the required dependencies:
 
 bash
 Copy code
 pip install -r requirements.txt
-Run the app:
+Run the Streamlit app:
 
 bash
 Copy code
 streamlit run main.py
-Technologies Used
-Python
-Streamlit
-Scikit-learn
-Pandas
-Pickle
-Future Improvements
-Add more features for better prediction accuracy.
-Deploy using Docker for scalable deployment.
-Contact
-For any inquiries or issues, feel free to reach out:
-Your LinkedIn Profile
+Model Details
+This project implements a custom SVM classifier built from scratch using Python. The classifier is trained on diabetes data to distinguish between diabetic and non-diabetic patients based on various features such as:
+
+Number of pregnancies
+Glucose level
+Blood pressure
+Skin thickness
+Insulin level
+BMI
+Age
+You can find the code for the custom SVM classifier in my GitHub repository below:
+
+🔗 Custom SVM Classifier GitHub Repo
+
+Files
+main.py: The main script for running the Streamlit app.
+diabetes_trained_model.sav: The trained model saved using pickle.
+scaler.pkl: The saved scaler for normalizing input data.
+requirements.txt: List of required dependencies for the project.
+Dataset
+The diabetes dataset used for training the model can be found on Kaggle.
+
+Screenshots
+
+How to Contribute
+If you'd like to contribute, feel free to open an issue or submit a pull request.
