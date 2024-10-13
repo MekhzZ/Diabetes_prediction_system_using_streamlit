@@ -44,3 +44,6 @@ This project implements a custom SVM classifier built from scratch using Python.
 - BMI
 - Age
 
+You can find the code for the custom SVM classifier in my GitHub repository below:
+
+🔗 [Custom SVM Classifier GitHub Repo](https://github.com/MekhzZ/SVM_Classifier_from_scratch)
