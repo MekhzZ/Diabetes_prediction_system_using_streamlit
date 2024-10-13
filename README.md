@@ -47,3 +47,14 @@ This project implements a custom SVM classifier built from scratch using Python.
 You can find the code for the custom SVM classifier in my GitHub repository below:
 
 🔗 [Custom SVM Classifier GitHub Repo](https://github.com/MekhzZ/SVM_Classifier_from_scratch)
+
+## Files
+
+- **main.py** : The main script for running the Streamlit app.
+- **diabetes_trained_model.sav** : The trained model saved using pickle.
+- **scaler.pkl**: The saved scaler for normalizing input data.
+- **requirements.txt**: List of required dependencies for the project.
+
+## Dataset
+
+The diabetes dataset used for training the model can be found on [Kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset).
