@@ -62,5 +62,5 @@ The diabetes dataset used for training the model can be found on [Kaggle](https:
 ## Screenshots
 Here is a screenshot of the Diabetes Prediction System in action:
 
-![App Screenshot](./assets/Screenshot 2024-10-13 130943.png)
+![App Screenshot](./assets/Ss.png)
 
