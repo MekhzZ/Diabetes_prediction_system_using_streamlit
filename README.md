@@ -17,7 +17,18 @@ You can access the live demo of the app here:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/MekhzZ/Diabetes_prediction_system_using_streamlit.git
+   cd Diabetes_prediction_system_using_streamlit
+   ```
+2. Install the required dependencies:
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+4. Run the streamlit app:
+
+   ```bash
+   streamlit run main.py
    ```
 
