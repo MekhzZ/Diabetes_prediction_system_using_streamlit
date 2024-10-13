@@ -12,3 +12,12 @@ You can access the live demo of the app here:
 
 🔗 [Live Streamlit App](https://diabetespredictionsystemusingapp-gu98foprwnu8j6xmno7qyj.streamlit.app/)
 
+## How to Run the Project Locally
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+
