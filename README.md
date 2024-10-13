@@ -1,4 +1,4 @@
-# Diabetes Prediction System
+# Diabetes Prediction System using Streamlit
 
 This project is a **Diabetes Prediction System** built using **Streamlit** for the web interface and a **custom-made SVM (Support Vector Machine)** classifier for prediction. The system allows users to input medical details and get a prediction about whether or not they may have diabetes, based on the provided data.
 
@@ -10,12 +10,5 @@ This project is a **Diabetes Prediction System** built using **Streamlit** for t
 ## Live Demo
 You can access the live demo of the app here:
 
-🔗 [Live Streamlit App](your-streamlit-app-link)
+🔗 [Live Streamlit App](https://diabetespredictionsystemusingapp-gu98foprwnu8j6xmno7qyj.streamlit.app/)
 
-## How to Run the Project Locally
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
