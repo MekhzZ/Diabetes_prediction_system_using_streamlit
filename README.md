@@ -32,3 +32,15 @@ You can access the live demo of the app here:
    streamlit run main.py
    ```
 
+## More details
+
+This project implements a custom SVM classifier built from scratch using Python. The classifier is trained on diabetes data to distinguish between diabetic and non-diabetic patients based on various features such as:
+
+- Number of pregnancies
+- Glucose level
+- Blood pressure
+- Skin thickness
+- Insulin level
+- BMI
+- Age
+
