@@ -90,7 +90,7 @@ df = pd.read_csv("diabetes.csv")
 
 st.write("you can take a random data from below to predict")
 
-st.write(df.sample())
+st.write(df.head(2))
 
 col1,col2 = st.columns(2)
 
