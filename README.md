@@ -51,10 +51,19 @@ You can find the code for the custom SVM classifier in my GitHub repository belo
 ## Files
 
 - **main.py** : The main script for running the Streamlit app.
-- **diabetes_trained_model.sav** : The trained model saved using pickle.
+- **diabetes_trained_model.pkl** : The trained model saved using pickle.
 - **scaler.pkl**: The saved scaler for normalizing input data.
 - **requirements.txt**: List of required dependencies for the project.
+- **diabetes.csv** : The main dataset.
+- **assets** : The required assets of the project.
+
 
 ## Dataset
 
 The diabetes dataset used for training the model can be found on [Kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset).
+
+## Screenshots
+Here is a screenshot of the Diabetes Prediction System in action:
+
+![App Screenshot](./assets/Ss.png)
+
